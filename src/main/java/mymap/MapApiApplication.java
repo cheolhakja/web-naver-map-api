@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MapapiApplication {
+public class MapApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MapapiApplication.class, args);
+		SpringApplication.run(MapApiApplication.class, args);
 	}
 
 }
