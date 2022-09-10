@@ -6,3 +6,4 @@
 * ***별점*** 혹은 리뷰를 기준으로 분류, 정렬
     * stream api  
 * 지도에 새 업체가 등록될때마다 변경사항 반영
+* `properties.yaml` 에 client id 와 client secret 입력하기
